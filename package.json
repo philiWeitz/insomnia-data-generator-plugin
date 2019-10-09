@@ -11,5 +11,13 @@
     "lodash": "4.17.15",
     "moment": "2.24.0"
   },
-  "devDependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philiWeitz/insomnia-data-generator-plugin"
+  },
+  "keywords": [
+    "insomnia",
+    "insomnia-plugin",
+    "generator"
+  ]
 }
