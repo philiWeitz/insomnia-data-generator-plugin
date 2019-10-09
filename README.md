@@ -1,7 +1,7 @@
 # insomnia-data-generator-plugin
 This is insomnia plugin for generating random data using chancejs
 
-![Preview](./documentation/preview.gif)
+<img src="documentation/preview.gif" />
 
 ## Options
 The option description can be found under https://chancejs.com/.
