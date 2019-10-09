@@ -1,6 +1,6 @@
 {
   "name": "insomna-plugin-data-generator",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "plugin.js",
   "insomnia": {
     "name": "Data Generator",
